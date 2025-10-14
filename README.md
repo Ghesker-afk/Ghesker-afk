@@ -23,12 +23,11 @@ de testes como o Jest e o Vitest, e possibilitando o uso geral e facilitado da a
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" />    
 </div>
 
+##Estatísticas no GitHub
 ---
-
-## Contatos:
-<div style="display: flex; align-items: center;">
-          <a href = "mailto:contato@SpaceXZ12345@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-          <a href="https://www.linkedin.com/in/???" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<div>
+          <a href="https://github.com/Ghesker-afk">
+          <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghesker-afk&layout=compact&langs_count=7&theme=dracula"/>
+          <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ghesker-afk-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
----
 
