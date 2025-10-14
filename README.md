@@ -8,7 +8,8 @@ de testes como o Jest e o Vitest, e possibilitando o uso geral e facilitado da a
 ## Skills
 ---
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
+
           
 
 
