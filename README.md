@@ -1,3 +1,4 @@
+---
 ## Olá, meu nome é Giovanni!
 
 Atualmente, sou estudante do curso de Análise e Desenvolvimento de Sistemas, e trabalho principalmente com o desenvolvimento web, tanto
@@ -22,9 +23,12 @@ de testes como o Jest e o Vitest, e possibilitando o uso geral e facilitado da a
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" />    
 </div>
 
-          
+---
 
-
-
+## Contatos:
+<div style="display: flex; align-items: center;">
+          <a href = "mailto:contato@SpaceXZ12345@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+          <a href="https://www.linkedin.com/in/???" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 ---
 
