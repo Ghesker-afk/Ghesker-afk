@@ -1,5 +1,5 @@
----
 ## Olá, meu nome é Giovanni!
+---
 
 Atualmente, sou estudante do curso de Análise e Desenvolvimento de Sistemas, e trabalho principalmente com o desenvolvimento web, tanto
 front-end quanto back-end. Meu foco atual é na construção de apps completas, construindo o front e o backend e integrando eles, além de
@@ -23,11 +23,11 @@ de testes como o Jest e o Vitest, e possibilitando o uso geral e facilitado da a
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" />    
 </div>
 
-##Estatísticas no GitHub
+## Estatísticas no GitHub
 ---
 <div>
           <a href="https://github.com/Ghesker-afk">
           <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghesker-afk&layout=compact&langs_count=7&theme=dracula"/>
-          <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ghesker-afk-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+          <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ghesker-afk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
