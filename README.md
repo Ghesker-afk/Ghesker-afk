@@ -27,5 +27,5 @@ de testes como o Jest e o Vitest, e possibilitando o uso geral e facilitado da a
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghesker-afk)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghesker-afk)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Ghesker-afk)](https://github.com/Ghesker-afk/github-readme-stats)
 
