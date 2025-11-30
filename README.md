@@ -8,7 +8,7 @@ de testes como o Jest e o Vitest, e possibilitando o uso geral e facilitado da a
 
 ## Skills
 ---
-<div style="display: flex; gap: 2px;">
+<div style="display: flex; gap: 2px; justify-content: space-between; align-items: center; background-color: #000000;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
@@ -25,9 +25,7 @@ de testes como o Jest e o Vitest, e possibilitando o uso geral e facilitado da a
 
 ## Estatísticas no GitHub
 ---
-<div>
-          <a href="https://github.com/Ghesker-afk">
-          <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghesker-afk&layout=compact&langs_count=7&theme=dracula"/>
-          <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ghesker-afk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+![Ghesker-afk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghesker-afk&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghesker-afk&layout=compact&theme=dark)
 
