@@ -13,8 +13,8 @@ uma, pois tenho um grande interesse em conhecimento no geral, não restringindo 
 
 - **Dados**: SQL, Python, Microsoft SQL Server, T-SQL, PostgreSQL, MongoDB.
 - **Front-End**: HTML, CSS, JavaScript / TypeScript e React.
-- **Back-End**: JavaScript / TypeScript, Express, Java.
-- **Ferramentas e Outros**: Docker, GitHub, Power BI, Excel.
+- **Back-End**: JavaScript / TypeScript, Java.
+- **Ferramentas e Outros**: Git, Docker, Excel, Computação em Nuvem, Redes.
 
 
 
